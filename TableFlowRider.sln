@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{28F83F64-E71B-42C7-8617-17FBEB2FA257}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableFlow", "TableFlow\TableFlow.csproj", "{28F83F64-E71B-42C7-8617-17FBEB2FA257}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

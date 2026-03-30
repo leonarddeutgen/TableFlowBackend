@@ -1,11 +1,9 @@
 **TableFlow**
-is a modern, web-based restaurant management system designed to simplify workflows for one or multiple establishments. Built from real-world experience to eliminate the friction found in traditional POS systems.
-Live Demo | Frontend Repo | Backend Repo
-**The Inspiration**
+is a side project I build in my free time alongside my studies in .NET development and part-time work in the restaurant industry.
 
-Working in the restaurant industry, I’ve used systems that felt unnecessarily complicated and slow. TableFlow was born from the need for a tool that actually matches the fast-paced reality of a busy dining room—intuitive, clean, and efficient.
-The Problem: Many existing systems are difficult to navigate and don't adapt well to real-world workflows.
-The Solution: A streamlined platform where managing tables, bills, and staff is as easy as moving a chair in real life.
+It’s a creative space where I experiment with ideas and build features based on real-world experience—focusing on how I think a restaurant system should actually work during a busy shift.
+
+The Goal: Create a simple, intuitive, and efficient system for managing tables, orders, and staff—without the unnecessary complexity found in many traditional POS systems.
 
 🚀 Key Features (MVP)
 🏨 Multi-Org Management: Create and manage users and organizations for multiple restaurants in one place.

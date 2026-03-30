@@ -1,5 +1,5 @@
 **TableFlow**
-TableFlow is a modern, web-based restaurant management system designed to simplify workflows for one or multiple establishments. Built from real-world experience to eliminate the friction found in traditional POS systems.
+is a modern, web-based restaurant management system designed to simplify workflows for one or multiple establishments. Built from real-world experience to eliminate the friction found in traditional POS systems.
 Live Demo | Frontend Repo | Backend Repo
 **The Inspiration**
 
